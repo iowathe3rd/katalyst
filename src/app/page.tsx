@@ -1,3 +1,4 @@
+import Cases from "@/components/sections/home/Case";
 import Hero from "@/components/sections/home/Hero";
 import Services from "@/components/sections/home/Services";
 
@@ -6,6 +7,7 @@ export default function Home() {
     <main className="space-y-20">
       <Hero />
       <Services />
+      <Cases />
     </main>
   );
 }
