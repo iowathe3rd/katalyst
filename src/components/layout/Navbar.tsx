@@ -16,7 +16,7 @@ const Navbar = () => {
               className="h-8"
               alt="Logo"
               height={32}
-              width={32}
+              width={250}
             />
           </a>
           <button
@@ -62,7 +62,7 @@ const Navbar = () => {
                   target="_blank"
                 >
                   <h2 className="text-center text-xl font-normal leading-7">
-                    Request a quot
+                    Связатся с нами
                   </h2>
                 </a>
               </li>
@@ -75,7 +75,7 @@ const Navbar = () => {
               target="_blank"
             >
               <h2 className="text-center text-xl font-normal leading-7">
-                Request a quot
+                Связатся с нами
               </h2>
             </a>
           </div>
